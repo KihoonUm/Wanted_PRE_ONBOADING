@@ -15,6 +15,7 @@ final class ImageLoadTableViewCell: UITableViewCell {
     
     
     @IBAction func loadImageAction(_ sender: UIButton) {
+        print("bard:::cellBtn")
     }
     
 }
