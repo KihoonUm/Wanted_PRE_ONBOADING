@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		C417CA93299F07B100448177 /* ImageLoadTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = C417CA92299F07B100448177 /* ImageLoadTableViewCell.xib */; };
 		C417CA95299F099D00448177 /* ImageLoadTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C417CA94299F099D00448177 /* ImageLoadTableViewCell.swift */; };
+		C417CA97299F406500448177 /* Extentions.swift in Sources */ = {isa = PBXBuildFile; fileRef = C417CA96299F406500448177 /* Extentions.swift */; };
 		C42D7D68299E2CB100C80222 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C42D7D67299E2CB100C80222 /* AppDelegate.swift */; };
 		C42D7D6A299E2CB100C80222 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C42D7D69299E2CB100C80222 /* SceneDelegate.swift */; };
 		C42D7D6C299E2CB100C80222 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C42D7D6B299E2CB100C80222 /* ViewController.swift */; };
@@ -20,6 +21,7 @@
 /* Begin PBXFileReference section */
 		C417CA92299F07B100448177 /* ImageLoadTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ImageLoadTableViewCell.xib; sourceTree = "<group>"; };
 		C417CA94299F099D00448177 /* ImageLoadTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageLoadTableViewCell.swift; sourceTree = "<group>"; };
+		C417CA96299F406500448177 /* Extentions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extentions.swift; sourceTree = "<group>"; };
 		C42D7D64299E2CB100C80222 /* Wanted_PRE_ONBOADING.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Wanted_PRE_ONBOADING.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C42D7D67299E2CB100C80222 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C42D7D69299E2CB100C80222 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				C42D7D75299E2CB400C80222 /* Info.plist */,
 				C417CA92299F07B100448177 /* ImageLoadTableViewCell.xib */,
 				C417CA94299F099D00448177 /* ImageLoadTableViewCell.swift */,
+				C417CA96299F406500448177 /* Extentions.swift */,
 			);
 			path = Wanted_PRE_ONBOADING;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			files = (
 				C42D7D6C299E2CB100C80222 /* ViewController.swift in Sources */,
 				C417CA95299F099D00448177 /* ImageLoadTableViewCell.swift in Sources */,
+				C417CA97299F406500448177 /* Extentions.swift in Sources */,
 				C42D7D68299E2CB100C80222 /* AppDelegate.swift in Sources */,
 				C42D7D6A299E2CB100C80222 /* SceneDelegate.swift in Sources */,
 			);
